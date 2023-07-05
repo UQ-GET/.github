@@ -1,3 +1,4 @@
+# Welcome to the UQ Centre for Natural Gas on GitHub #
 **TERMS OF USE – UQ Centre for Natural Gas Computer Code accessed via GitHub repositories**
 
 These terms of use are for the following software developed at the University of Queensland Centre for Natural Gas (“**UQ-CNG**”).  The software consists of all computer code (including code provided in object or source code form and including all scripts, libraries, applications and other files) accessed via the UQ-CNG GitHub repositories, including the foregoing as updated from time to time (‘**the Software**’).  The Software and any accompanying documentation (if any), is provided free and on an AS IS basis, subject to the following terms (‘**Terms of Use**’).  A reference to the Software includes the whole and any part of it.

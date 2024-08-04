@@ -1,6 +1,6 @@
 # Welcome to the UQ Gas & Energy Transition Research Centre on GitHub #
 
-If you are interested in accessing code developed at UQ-GET, please email: naturalgas@uq.edu.au. Note that all code is provided under the following terms, and you should ensure you have read these terms, and agree to them, prior to requesting access. 
+If you are interested in accessing code developed at UQ-GET, please email: gas-energy@uq.edu.au. Note that all code is provided under the following terms, and you should ensure you have read these terms, and agree to them, prior to requesting access. 
 
 **TERMS OF USE – UQ Gas & Energy Transition Research Centre Computer Code accessed via GitHub repositories**
 
